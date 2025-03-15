@@ -1,11 +1,10 @@
   <h2>Hi 👋, Nice To See You ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm95bDJxMDk0aXl2eHUwMHNxa29jcXBmOW1sdndtOTZkcG9wYXNoMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="30"> 
+<p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm95bDJxMDk0aXl2eHUwMHNxa29jcXBmOW1sdndtOTZkcG9wYXNoMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="200"> 
 </em></p>
 <p><img src="https://img.shields.io/twitter/follow/misteranmol?label=Follow" alt="Twitter Follow">
 <a href="https://www.linkedin.com/in/behnam-m-24140453/"><img src="https://img.shields.io/badge/-anmol-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/behnam-m-24140453/" alt="Linkedin: thaianebraga"></a>
 <img src="https://img.shields.io/github/followers/darkexpert?label=Follow&amp;style=social" alt="GitHub followers">
 <img src="https://visitor-badge.glitch.me/badge?page_id=darkexpert" alt="">
-<img src="https://github.com/darkexpert/darkexpert/workflows/Waka%20Readme/badge.svg" alt="Waka Readme"></p>
 <p>👇 Hit in your console or terminal to connect with me.</p>
 <pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#B392F0">npx</span><span style="color:#9ECBFF"> behnam</span></span></code></pre>
 <h3 id="-a-little-more-about-me"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me…</h3>
