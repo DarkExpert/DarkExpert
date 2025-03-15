@@ -90,10 +90,10 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/behnam-m-24140453" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://stackoverflow.com/users/19122637" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a>
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=DarkExpert&show_icons=true&locale=en" alt="DarkExpert" /></p>
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DarkExpert&" alt="DarkExpert" /></p>-->
+<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=DarkExpert&show_icons=true&locale=en" alt="DarkExpert" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DarkExpert&" alt="DarkExpert" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkExpert&show_icons=true&locale=en&layout=compact" alt="DarkExpert" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DarkExpert" alt="DarkExpert" /></a></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DarkExpert" alt="DarkExpert" /></a></p>-->
 
 <!--- stats & Trophy (start) -->
 <p align="center">
