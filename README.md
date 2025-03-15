@@ -87,11 +87,41 @@
 <ul>
 <li><a target="_blank" href=""></a></li>
 <h2>⚡️ Where to find me</h2>
-<a target="_blank" href="https://stackoverflow.com/users/19122637" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
+<p><a target="_blank" href="https://www.linkedin.com/in/behnam-m-24140453" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://stackoverflow.com/users/19122637" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a>
+</p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=DarkExpert&show_icons=true&locale=en" alt="DarkExpert" /></p>
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DarkExpert&" alt="DarkExpert" /></p>-->
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkExpert&show_icons=true&locale=en&layout=compact" alt="DarkExpert" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DarkExpert" alt="DarkExpert" /></a></p>
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+</p>
+<table align="center">
+<tbody><tr border="none">
+<td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DarkExpert&amp;theme=dark&amp;show_icons=true&amp;count_private=true">
+  <br><br>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DarkExpert&amp;theme=dark&amp;hide_border=false"> 
+</td><td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DarkExpert&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
+  </td>
+</tr>
+</tbody></table>
+<!--- stats (end) -->
+<!--- trophy (start) -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=DarkExpert&amp;theme=radical&amp;row=1&amp;column=7&amp;margin-h=15&amp;margin-w=5&amp;no-bg=true" alt="TROPHY">
+    </a>
+</div>
+<!--- trophy (start) -->
+<p></p>        
+<!--- stats (end) -->
+
+
 <h2>❤️ Support Me</h2>
 <p><p>
 <a href="https://www.buymeacoffee.com/behnammaster">
