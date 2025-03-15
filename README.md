@@ -1,5 +1,5 @@
   <h2>Hi 👋, Nice To See You ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<p><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2VmcHRkanlvbmN1YmVhbnFsOWZ2ZDdzb2FkeGl5ZDk3eWVwN2VybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600px" Style="float: right; margin-left: 100px !important;"> 
+<p style="padding-left: 100px !important;"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2VmcHRkanlvbmN1YmVhbnFsOWZ2ZDdzb2FkeGl5ZDk3eWVwN2VybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600px" Style="float: right; margin-left: 100px !important;"> 
 </em></p>
 <p><img src="https://img.shields.io/twitter/follow/misteranmol?label=Follow" alt="Twitter Follow">
 <a href="https://www.linkedin.com/in/behnam-m-24140453/"><img src="https://img.shields.io/badge/-anmol-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/behnam-m-24140453/" alt="Linkedin: thaianebraga"></a>
