@@ -2,7 +2,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2VmcHRkanlvbmN1YmVhbnFsOWZ2ZDdzb2FkeGl5ZDk3eWVwN2VybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" alt="Animated technology banner" />
 </p>
 
-<img src="assets/identity.svg" width="100%" alt="Behnam Maghoul Shabestari — Senior Software Engineer and AI Solution Architect. 18+ years. Espoo, Finland." />
+<img src="assets/identity.svg" width="100%" alt="Behnam Maghoul — Senior Software Engineer and AI Solution Architect. 18+ years. Espoo, Finland." />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/behnam-m-24140453/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
