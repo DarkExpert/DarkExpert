@@ -76,9 +76,22 @@ Owner isolated chat, persisted support requests, duplicate booking prevention an
 
 </td>
 </tr>
-</table>
+<tr>
+<td colspan="2" valign="top">
 
-**🤖 [BotForge](https://github.com/DarkExpert/BotForge)** — Telegram bot orchestration with a React admin dashboard, localization and database migrations. Built with Python, FastAPI, aiogram and PostgreSQL.
+### 🤖 BotForge
+
+**Telegram bot orchestration and administration**
+
+Multi bot backend with a React admin dashboard, English and Arabic localization, admin API key access and database migrations.
+
+`Python` `FastAPI` `aiogram` `PostgreSQL` `React` `Docker Compose`
+
+[Explore repository →](https://github.com/DarkExpert/BotForge)
+
+</td>
+</tr>
+</table>
 
 These public reference projects document their setup and scope; capabilities and limitations are described in each repository.
 
