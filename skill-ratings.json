@@ -1,50 +1,278 @@
 {
-  "Backend engineering": {
-    "C#": 95,
-    ".NET / ASP.NET Core": 94,
-    "REST APIs & integration": 93,
-    "EF Core": 88,
-    "Node.js / Fastify": 82,
-    "Python / FastAPI": 80
+  "C#": {
+    "score": 95,
+    "asset": "assets/skills/backend-csharp.svg"
   },
-  "Web and desktop": {
-    "WPF / XAML / MVVM": 90,
-    "React": 85,
-    "TypeScript / JavaScript": 86,
-    "Angular": 82,
-    "HTML / CSS": 85,
-    "Blazor": 76
+  ".NET": {
+    "score": 94,
+    "asset": "assets/skills/backend-net.svg"
   },
-  "Databases and analytics": {
-    "SQL Server / T SQL": 94,
-    "Data modeling": 90,
-    "Oracle / PL SQL": 85,
-    "PostgreSQL": 84,
-    "Azure SQL": 84,
-    "Redis / MongoDB": 76
+  "ASP.NET Core": {
+    "score": 94,
+    "asset": "assets/skills/backend-asp-net-core.svg"
   },
-  "Architecture and quality": {
-    "Software architecture": 93,
-    "Legacy modernization": 92,
-    "SOLID / modular design": 93,
-    "DDD / CQRS": 88,
-    "Automated testing / TDD": 89,
-    "Production debugging": 92
+  "EF Core": {
+    "score": 88,
+    "asset": "assets/skills/backend-ef-core.svg"
   },
-  "Cloud and delivery": {
-    "Git / code review": 92,
-    "Azure DevOps / Pipelines": 88,
-    "CI/CD": 87,
-    "Docker / Compose": 84,
-    "Azure deployment": 81,
-    "GitHub Actions": 80
+  "REST APIs": {
+    "score": 93,
+    "asset": "assets/skills/backend-rest-apis.svg"
   },
-  "AI and application security": {
-    "OAuth / JWT / identity": 88,
-    "AI provider integration": 85,
-    "Microsoft Entra ID": 82,
-    "MCP tooling & policies": 82,
-    "AI assisted development": 87,
-    "RAG / retrieval workflows": 75
+  "Node.js": {
+    "score": 82,
+    "asset": "assets/skills/backend-node-js.svg"
+  },
+  "Fastify": {
+    "score": 82,
+    "asset": "assets/skills/backend-fastify.svg"
+  },
+  "Python": {
+    "score": 80,
+    "asset": "assets/skills/backend-python.svg"
+  },
+  "FastAPI": {
+    "score": 80,
+    "asset": "assets/skills/backend-fastapi.svg"
+  },
+  "WCF": {
+    "score": 85,
+    "asset": "assets/skills/backend-wcf.svg"
+  },
+  "VB.NET": {
+    "score": 83,
+    "asset": "assets/skills/backend-vb-net.svg"
+  },
+  "React": {
+    "score": 85,
+    "asset": "assets/skills/ui-react.svg"
+  },
+  "TypeScript": {
+    "score": 86,
+    "asset": "assets/skills/ui-typescript.svg"
+  },
+  "JavaScript": {
+    "score": 86,
+    "asset": "assets/skills/ui-javascript.svg"
+  },
+  "Angular": {
+    "score": 82,
+    "asset": "assets/skills/ui-angular.svg"
+  },
+  "Blazor": {
+    "score": 76,
+    "asset": "assets/skills/ui-blazor.svg"
+  },
+  "WPF": {
+    "score": 90,
+    "asset": "assets/skills/ui-wpf.svg"
+  },
+  "XAML": {
+    "score": 90,
+    "asset": "assets/skills/ui-xaml.svg"
+  },
+  "MVVM": {
+    "score": 90,
+    "asset": "assets/skills/ui-mvvm.svg"
+  },
+  "HTML5": {
+    "score": 85,
+    "asset": "assets/skills/ui-html5.svg"
+  },
+  "CSS3": {
+    "score": 85,
+    "asset": "assets/skills/ui-css3.svg"
+  },
+  "Bootstrap": {
+    "score": 83,
+    "asset": "assets/skills/ui-bootstrap.svg"
+  },
+  "jQuery": {
+    "score": 85,
+    "asset": "assets/skills/ui-jquery.svg"
+  },
+  "Xamarin.Forms": {
+    "score": 75,
+    "asset": "assets/skills/ui-xamarin-forms.svg"
+  },
+  "SQL Server": {
+    "score": 94,
+    "asset": "assets/skills/data-sql-server.svg"
+  },
+  "T SQL": {
+    "score": 94,
+    "asset": "assets/skills/data-t-sql.svg"
+  },
+  "PostgreSQL": {
+    "score": 84,
+    "asset": "assets/skills/data-postgresql.svg"
+  },
+  "Oracle": {
+    "score": 85,
+    "asset": "assets/skills/data-oracle.svg"
+  },
+  "PL SQL": {
+    "score": 85,
+    "asset": "assets/skills/data-pl-sql.svg"
+  },
+  "Azure SQL": {
+    "score": 84,
+    "asset": "assets/skills/data-azure-sql.svg"
+  },
+  "Redis": {
+    "score": 76,
+    "asset": "assets/skills/data-redis.svg"
+  },
+  "MongoDB": {
+    "score": 76,
+    "asset": "assets/skills/data-mongodb.svg"
+  },
+  "MySQL": {
+    "score": 80,
+    "asset": "assets/skills/data-mysql.svg"
+  },
+  "Snowflake": {
+    "score": 76,
+    "asset": "assets/skills/data-snowflake.svg"
+  },
+  "Microsoft Fabric": {
+    "score": 76,
+    "asset": "assets/skills/data-microsoft-fabric.svg"
+  },
+  "Software Architecture": {
+    "score": 93,
+    "asset": "assets/skills/architecture-software-architecture.svg"
+  },
+  "DDD": {
+    "score": 88,
+    "asset": "assets/skills/architecture-ddd.svg"
+  },
+  "CQRS": {
+    "score": 88,
+    "asset": "assets/skills/architecture-cqrs.svg"
+  },
+  "SOLID": {
+    "score": 93,
+    "asset": "assets/skills/architecture-solid.svg"
+  },
+  "Microservices": {
+    "score": 88,
+    "asset": "assets/skills/architecture-microservices.svg"
+  },
+  "Event Driven": {
+    "score": 86,
+    "asset": "assets/skills/architecture-event-driven.svg"
+  },
+  "TDD": {
+    "score": 89,
+    "asset": "assets/skills/architecture-tdd.svg"
+  },
+  "BDD": {
+    "score": 82,
+    "asset": "assets/skills/architecture-bdd.svg"
+  },
+  "Selenium": {
+    "score": 82,
+    "asset": "assets/skills/architecture-selenium.svg"
+  },
+  "BPMN": {
+    "score": 87,
+    "asset": "assets/skills/architecture-bpmn.svg"
+  },
+  "Microsoft WF": {
+    "score": 83,
+    "asset": "assets/skills/architecture-microsoft-wf.svg"
+  },
+  "Azure": {
+    "score": 81,
+    "asset": "assets/skills/delivery-azure.svg"
+  },
+  "Azure DevOps": {
+    "score": 88,
+    "asset": "assets/skills/delivery-azure-devops.svg"
+  },
+  "Azure Pipelines": {
+    "score": 88,
+    "asset": "assets/skills/delivery-azure-pipelines.svg"
+  },
+  "GitHub Actions": {
+    "score": 80,
+    "asset": "assets/skills/delivery-github-actions.svg"
+  },
+  "CI/CD": {
+    "score": 87,
+    "asset": "assets/skills/delivery-ci-cd.svg"
+  },
+  "Docker": {
+    "score": 84,
+    "asset": "assets/skills/delivery-docker.svg"
+  },
+  "Docker Compose": {
+    "score": 84,
+    "asset": "assets/skills/delivery-docker-compose.svg"
+  },
+  "Git": {
+    "score": 92,
+    "asset": "assets/skills/delivery-git.svg"
+  },
+  "PowerShell": {
+    "score": 82,
+    "asset": "assets/skills/delivery-powershell.svg"
+  },
+  "Linux": {
+    "score": 80,
+    "asset": "assets/skills/delivery-linux.svg"
+  },
+  "WSL": {
+    "score": 83,
+    "asset": "assets/skills/delivery-wsl.svg"
+  },
+  "OpenAI API": {
+    "score": 85,
+    "asset": "assets/skills/ai-security-openai-api.svg"
+  },
+  "MCP": {
+    "score": 82,
+    "asset": "assets/skills/ai-security-mcp.svg"
+  },
+  "RAG": {
+    "score": 75,
+    "asset": "assets/skills/ai-security-rag.svg"
+  },
+  "Azure AI Foundry": {
+    "score": 75,
+    "asset": "assets/skills/ai-security-azure-ai-foundry.svg"
+  },
+  "OAuth 2.0": {
+    "score": 88,
+    "asset": "assets/skills/ai-security-oauth-2-0.svg"
+  },
+  "OpenID Connect": {
+    "score": 85,
+    "asset": "assets/skills/ai-security-openid-connect.svg"
+  },
+  "JWT": {
+    "score": 88,
+    "asset": "assets/skills/ai-security-jwt.svg"
+  },
+  "Microsoft Entra ID": {
+    "score": 82,
+    "asset": "assets/skills/ai-security-microsoft-entra-id.svg"
+  },
+  "Supabase Auth": {
+    "score": 80,
+    "asset": "assets/skills/ai-security-supabase-auth.svg"
+  },
+  "Row Level Security": {
+    "score": 80,
+    "asset": "assets/skills/ai-security-row-level-security.svg"
+  },
+  "Azure Service Bus": {
+    "score": 82,
+    "asset": "assets/skills/ai-security-azure-service-bus.svg"
+  },
+  "WSO2": {
+    "score": 83,
+    "asset": "assets/skills/ai-security-wso2.svg"
   }
 }

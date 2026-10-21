@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="180" viewBox="0 0 300 180"><defs><linearGradient id="bar"><stop stop-color="#2dd4bf"/><stop offset="1" stop-color="#60a5fa"/></linearGradient></defs><rect x="1" y="1" width="298" height="178" rx="15" fill="#101c32" stroke="#26394e"/><ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" viewBox="0 0 128 128" x="22" y="19" width="48" height="48">
+    <ns0:defs>
+        <ns0:linearGradient id="a" gradientUnits="userSpaceOnUse" x1="9" y1="16.97" x2="9" y2="1.03" gradientTransform="scale(7.11111)">
+            <ns0:stop offset="0" stop-color="#0078d4" />
+            <ns0:stop offset=".16" stop-color="#1380da" />
+            <ns0:stop offset=".53" stop-color="#3c91e5" />
+            <ns0:stop offset=".82" stop-color="#559cec" />
+            <ns0:stop offset="1" stop-color="#5ea0ef" />
+        </ns0:linearGradient>
+    </ns0:defs>
+    <ns0:path fill="url(#a)" d="M120.89 28.445v69.262l-28.445 23.324-44.09-16.07v15.93L23.395 88.25l72.746 5.688V31.574ZM96.64 31.93 55.82 7.11v16.285L18.348 34.418 7.109 48.852v32.785l16.075 7.11V46.718Zm0 0" />
+</ns0:svg><text x="276" y="53" font-family="DejaVu Sans,Arial,sans-serif" font-size="30" fill="#5eead4" text-anchor="end" font-weight="700">88%</text><text x="22" y="103" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" fill="#e2e8f0" text-anchor="start" font-weight="700">Azure Pipelines</text><rect x="22" y="146" width="256" height="9" rx="4.5" fill="#29394d"/><rect x="22" y="146" width="225.28" height="9" rx="4.5" fill="url(#bar)"/></svg>
