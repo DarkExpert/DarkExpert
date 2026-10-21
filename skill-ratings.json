@@ -1,0 +1,50 @@
+{
+  "Backend engineering": {
+    "C#": 95,
+    ".NET / ASP.NET Core": 94,
+    "REST APIs & integration": 93,
+    "EF Core": 88,
+    "Node.js / Fastify": 82,
+    "Python / FastAPI": 80
+  },
+  "Web and desktop": {
+    "WPF / XAML / MVVM": 90,
+    "React": 85,
+    "TypeScript / JavaScript": 86,
+    "Angular": 82,
+    "HTML / CSS": 85,
+    "Blazor": 76
+  },
+  "Databases and analytics": {
+    "SQL Server / T SQL": 94,
+    "Data modeling": 90,
+    "Oracle / PL SQL": 85,
+    "PostgreSQL": 84,
+    "Azure SQL": 84,
+    "Redis / MongoDB": 76
+  },
+  "Architecture and quality": {
+    "Software architecture": 93,
+    "Legacy modernization": 92,
+    "SOLID / modular design": 93,
+    "DDD / CQRS": 88,
+    "Automated testing / TDD": 89,
+    "Production debugging": 92
+  },
+  "Cloud and delivery": {
+    "Git / code review": 92,
+    "Azure DevOps / Pipelines": 88,
+    "CI/CD": 87,
+    "Docker / Compose": 84,
+    "Azure deployment": 81,
+    "GitHub Actions": 80
+  },
+  "AI and application security": {
+    "OAuth / JWT / identity": 88,
+    "AI provider integration": 85,
+    "Microsoft Entra ID": 82,
+    "MCP tooling & policies": 82,
+    "AI assisted development": 87,
+    "RAG / retrieval workflows": 75
+  }
+}
